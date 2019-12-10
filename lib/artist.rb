@@ -19,5 +19,5 @@ end
 
 met = Artist.new("Metallica")
 Song.new("Master of Puppets")
-
+Song.new("Blackened")
 met.songs
