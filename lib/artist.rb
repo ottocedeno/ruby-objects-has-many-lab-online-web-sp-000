@@ -21,4 +21,5 @@ met = Artist.new("Metallica")
 Song.new("Master of Puppets")
 Song.new("Blackened")
 Song.new("Orion")
+Song.new("Battery")
 met.songs
