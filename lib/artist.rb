@@ -19,3 +19,5 @@ end
 
 met = Artist.new("Metallica")
 master = Song.new("Master of Puppets")
+
+met.songs
