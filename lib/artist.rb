@@ -9,10 +9,10 @@ attr_accessor :name
   end
 
   def add_song(song)
-    
+
   end
 
   def songs
-    Song.all.select {|song| song.name == self}
+    binding.pry
   end
 end
