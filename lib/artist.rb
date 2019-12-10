@@ -18,6 +18,6 @@ attr_accessor :name
 end
 
 met = Artist.new("Metallica")
-master = Song.new("Master of Puppets")
+.new("Master of Puppets")
 
 met.songs
